@@ -1,5 +1,4 @@
-import { div } from "framer-motion/client";
-import react from "react";
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { SelectedPage } from "../../shared/types";
 import { motion } from "framer-motion";
 import { useForm } from "react-hook-form";
