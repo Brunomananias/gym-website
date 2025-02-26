@@ -68,7 +68,7 @@ const ContactUs: React.FC<Props> = ({ setSelectedPage }) => {
             <form
               target="_blank"
               onSubmit={onSubmit}
-              action="https://formsubmit.co/brunomananias2009@hotmail.com"
+              action="https://formsubmit.co/"
               method="POST"
             >
               <input
